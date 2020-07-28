@@ -20,7 +20,7 @@
 
 * Progress of training from zero knowledge to completing the level
 
-[![Click to watch(https://img.youtube.com/vi/GsP5JRhEMQ0/0.jpg)](https://youtu.be/GsP5JRhEMQ0 "Click to watch")
+[![Click to watch](https://img.youtube.com/vi/GsP5JRhEMQ0/0.jpg)](https://youtu.be/GsP5JRhEMQ0 "Click to watch")
 
 ## More Details of The Project
 
