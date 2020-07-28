@@ -1,5 +1,8 @@
 # Deep Reinforcement Learning With Super Mario Bros
 
+![alt text](/mario.jpg)
+
+
 ## Description
 * Context: Super Mario Bros (SMB), a popular action game with a “real-life” environment and large state space is a perfect platform to design a Reinforcement Learning agent that can play a computer game. The agent requires to interact with various objects and obstacles in the world, encouraging a knowledge-rich approach to learning. 
 
