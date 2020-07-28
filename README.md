@@ -17,5 +17,4 @@
 
 ## RL Agent Training Process and Level Completion
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/GsP5JRhEMQ0)](https://youtu.be/GsP5JRhEMQ0)
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/GsP5JRhEMQ0/0.jpg)](https://youtu.be/GsP5JRhEMQ0 "Everything Is AWESOME")
