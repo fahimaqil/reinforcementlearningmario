@@ -14,3 +14,8 @@
 * We used Python language for the implementation since it is the best language for machine learning, and it integrated well with both OpenCV2 and Pytorch. 
 * Another python package such as numpy is also included in the implementation.
 * The computational power of Google Colab was used in order to conduct the experiment
+
+## RL Agent Training Process and Level Completion
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/GsP5JRhEMQ0)](https://youtu.be/GsP5JRhEMQ0)
+
