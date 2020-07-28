@@ -13,8 +13,15 @@
 * We used OpenCV, a popular open-source computer vision library, to perform some of the preprocessing methods due to the SMB environment such as resizing the frames and turning the colour of the frames to RGB
 * We used Python language for the implementation since it is the best language for machine learning, and it integrated well with both OpenCV2 and Pytorch. 
 * Another python package such as numpy is also included in the implementation.
-* The computational power of Google Colab was used in order to conduct the experiment
+* The computational power of Google Colab was used in order to conduct the experiment.
+* https://github.com/Kautenja/gym-super-mario-bros for the Mario gym environment.
 
 ## RL Agent Training Process and Level Completion
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/GsP5JRhEMQ0/0.jpg)](https://youtu.be/GsP5JRhEMQ0 "Everything Is AWESOME")
+* Progress of training from zero knowledge to completing the level
+
+[![Click to watch(https://img.youtube.com/vi/GsP5JRhEMQ0/0.jpg)](https://youtu.be/GsP5JRhEMQ0 "Click to watch")
+
+## More Details of The Project
+
+The full details including our result can be viewed here: https://github.com/fahimaqil/reinforcementlearningmario/blob/master/report/report.pdf
